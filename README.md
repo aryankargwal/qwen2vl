@@ -3,9 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat-square)
 
-<a href="[https://example.com](https://youtu.be/hsVdRqO65io)">
-  <img src="assets/yt.png" height="50" alt="Youtube Link">
-</a>
+<b>[Youtube Video](https://youtu.be/hsVdRqO65io)</b>
 
 This repository holds the code to create your own Video Describing Web Application using Qwen 2 VL 2B and Streamlit. Follow this code to replicate results on your own end.
 

@@ -16,10 +16,10 @@ Qwen 2 VL 2B is a powerful vision-language model developed by Alibaba, designed 
 
 #### Install Dependencies
 
-``` pip install -r requirements.txt```
+``` pip install -e .```
 
 #### Run Streamlit Application
-```streamlit run app.py```
+```streamlit run video.py```
 
 ## Features
 - Describe Video or Image Inputs
